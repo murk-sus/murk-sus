@@ -104,6 +104,8 @@ I like choosing the right tool for the job—and learning a new one when the pro
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,50:FF9A8B,100:FF5C8A&height=130&section=footer&animation=twinkling" alt="Animated sakura-colored footer" />
 
-*Thanks for visiting my little corner of GitHub! Keep being curious, and remember to back up your projects (and your heart) ✨*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=FF6F91&center=true&vCenter=true&width=650&lines=Thanks+for+visiting%2C+Murk's+little+corner!;Stay+curious+%E2%80%A2+keep+creating+%E2%9C%A8;See+you+around%2C+%40murk--sus+%F0%9F%8C%B8" alt="Animated sign-off" />
+
+<p><a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/See_you_around-@murk--sus-FF6F91?style=for-the-badge&logo=github&logoColor=white" alt="Visit Murk on GitHub" /></a></p>
 
 </div>
