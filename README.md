@@ -18,11 +18,7 @@
 
 <div align="center">
 
-<img src="assets/pilot-file.svg" width="100%" alt="Murk Surku pilot profile: iOS tinkering, plugin engineering, and research" />
-
-<br />
-
-<img src="assets/pilot-status.svg" width="100%" alt="Status: exploring; mood: sakura and Unit-02 red; build: always in progress" />
+<img src="assets/about-pilot.svg" width="100%" alt="Original anime-inspired pilot illustration for Murk's profile" />
 
 </div>
 
@@ -63,31 +59,34 @@ I like taking an idea that starts with “what if…?” and turning it into som
 
 ## 🍓 Project hangar
 
-### 📱 iOS tools & research　`RED ALERT: RESEARCH DIVISION`
+<p align="center"><img src="assets/research-divider.svg" width="100%" alt="Anime console graphic for iOS tools and research" /></p>
 
-| Project | Mission briefing | Read this first |
-|:--|:--|:--|
-| [**KAMUI**](https://github.com/murk-sus/kamui-escape) | Open-source iOS research project that includes a MobileGestalt editor and a UIKit toolbox. | Check the repo for supported builds, prerequisites, limitations, and device-safety notes. |
-| [**natsuk1**](https://github.com/murk-sus/natsuk1) | Research archive for iOS graphics/system experiments, observations, and technical write-ups. | Separates measured behavior from hypotheses and negative results. |
-| [**F1OOB-PoC**](https://github.com/murk-sus/F1OOB-PoC) | Focused harness documenting a GPU behavior observed inside an app context. | The documented scope is not kernel access or a general-purpose privilege escalation. Use only in an authorized test environment. |
-| [**natsuk1-research**](https://github.com/murk-sus/natsuk1-research) | Supporting archive of research materials and scripts. | An archive/research repo rather than a polished end-user app. |
-| [**asuka4scape**](https://github.com/murk-sus/asuka4scape) | Jailbreak-themed project space. | See the repository for its current contents. |
+<table>
+  <tr><th align="left">PROJECT</th><th align="left">MISSION BRIEFING</th><th align="left">NOTES</th></tr>
+  <tr><td><a href="https://github.com/murk-sus/kamui-escape"><b>KAMUI</b></a><br /><img src="https://img.shields.io/badge/iOS-RESEARCH-FF654F?style=flat-square" alt="iOS research" /></td><td>Open-source iOS research project that includes a MobileGestalt editor and a UIKit toolbox.</td><td>See its README for supported builds, prerequisites, limitations, and device-safety notes.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/natsuk1"><b>natsuk1</b></a><br /><img src="https://img.shields.io/badge/ARCHIVE-FINDINGS-FF9A62?style=flat-square" alt="Research archive" /></td><td>Research archive for iOS graphics/system experiments, observations, and technical write-ups.</td><td>Separates measured behavior from hypotheses and negative results.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/F1OOB-PoC"><b>F1OOB-PoC</b></a><br /><img src="https://img.shields.io/badge/GPU-HARNESS-9B72CF?style=flat-square" alt="GPU harness" /></td><td>Focused harness documenting a GPU behavior observed inside an app context.</td><td>Not kernel access or a general-purpose privilege escalation. Use only in an authorized test environment.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/natsuk1-research"><b>natsuk1-research</b></a><br /><img src="https://img.shields.io/badge/RESEARCH-ARCHIVE-9B72CF?style=flat-square" alt="Research archive" /></td><td>Supporting archive of research materials and scripts.</td><td>An archive/research repo rather than a polished end-user app.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/asuka4scape"><b>asuka4scape</b></a><br /><img src="https://img.shields.io/badge/iOS-TOOLS-FF6F91?style=flat-square" alt="iOS tools" /></td><td>Jailbreak-themed project space.</td><td>See the repository for its current contents.</td></tr>
+</table>
 
-### 🧁 Plugin lab　`CREATIVE ENGINE: ONLINE`
+<p align="center"><img src="assets/plugin-divider.svg" width="100%" alt="Pastel sakura illustration for plugin development" /></p>
 
-| Project | What’s inside |
-|:--|:--|
-| [**VoidGram Plugin SDK**](https://github.com/murk-sus/VoidGram-Plugin-SDK) | API documentation, examples, tools, plugin sources, and SDKs for several languages—everything needed to explore plugin development. |
-| [**VoidGram Plugins**](https://github.com/murk-sus/VoidGram-plugins) | A plugin catalog spanning code plugins and native-style entries for the iOS client ecosystem. |
-| [**AyuGramm for iOS**](https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS) | Collaborative project where I contribute as a co-author. |
+<table>
+  <tr><th align="left">PROJECT</th><th align="left">INSIDE THE LAB</th></tr>
+  <tr><td><a href="https://github.com/murk-sus/VoidGram-Plugin-SDK"><b>VoidGram Plugin SDK</b></a><br /><img src="https://img.shields.io/badge/SDK-DOCS-9B72CF?style=flat-square" alt="SDK and docs" /></td><td>API documentation, examples, tools, plugin sources, and SDKs for several languages—everything needed to explore plugin development.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/VoidGram-plugins"><b>VoidGram Plugins</b></a><br /><img src="https://img.shields.io/badge/PLUGIN-CATALOG-FF6F91?style=flat-square" alt="Plugin catalog" /></td><td>A plugin catalog spanning code plugins and native-style entries for the iOS client ecosystem.</td></tr>
+  <tr><td><a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><b>AyuGramm for iOS</b></a><br /><img src="https://img.shields.io/badge/COLLAB-CO--AUTHOR-2AABEE?style=flat-square" alt="Collaborative project" /></td><td>Collaborative project where I contribute as a co-author.</td></tr>
+</table>
 
-### 🖥️ Utility shelf　`SMALL TOOLS, BIG SIDE-QUEST ENERGY`
+<p align="center"><img src="assets/utility-divider.svg" width="100%" alt="Anime terminal illustration for desktop utilities and side projects" /></p>
 
-| Project | What it does |
-|:--|:--|
-| [**AI Helper Terminal**](https://github.com/murk-sus/AI-helper-windows-11) | Local, terminal-based assistant with explicit confirmation for file changes and shell commands. |
-| [**ideal-barnacle**](https://github.com/murk-sus/ideal-barnacle) | A small public experiment; see the repository for current details. |
-| [**cuddly-train**](https://github.com/murk-sus/cuddly-train) | An older, minimal experiment from my project archive. |
+<table>
+  <tr><th align="left">PROJECT</th><th align="left">SIDE-QUEST DESCRIPTION</th></tr>
+  <tr><td><a href="https://github.com/murk-sus/AI-helper-windows-11"><b>AI Helper Terminal</b></a><br /><img src="https://img.shields.io/badge/WINDOWS-UTILITY-FF9A8B?style=flat-square" alt="Windows utility" /></td><td>Local, terminal-based assistant with explicit confirmation for file changes and shell commands.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/ideal-barnacle"><b>ideal-barnacle</b></a><br /><img src="https://img.shields.io/badge/EXPERIMENT-LOG-9B72CF?style=flat-square" alt="Experiment" /></td><td>A small public experiment; see the repository for current details.</td></tr>
+  <tr><td><a href="https://github.com/murk-sus/cuddly-train"><b>cuddly-train</b></a><br /><img src="https://img.shields.io/badge/ARCHIVE-SIDE_QUEST-FF6F91?style=flat-square" alt="Archived experiment" /></td><td>An older, minimal experiment from my project archive.</td></tr>
+</table>
 
 ## 🎀 Tool palette
 

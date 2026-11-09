@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="112" viewBox="0 0 1100 112" role="img" aria-labelledby="title desc">
+  <title id="title">iOS research division</title><desc id="desc">A red-orange anime-inspired mecha console panel for iOS tools and research.</desc>
+  <defs><linearGradient id="r" x1="0" x2="1"><stop stop-color="#ff4f43"/><stop offset="1" stop-color="#ffb347"/></linearGradient><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#ff8e72" stroke-opacity=".16"/></pattern></defs>
+  <rect x="3" y="3" width="1094" height="106" rx="14" fill="#20151e" stroke="#ff654f" stroke-width="3"/><rect x="12" y="12" width="1076" height="88" rx="9" fill="url(#g)"/>
+  <path d="M27 27h10l10 10-10 10H27z" fill="url(#r)"/><text x="59" y="41" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="2" fill="#ffb347">DIVISION 01 / SYSTEMS & FIELD NOTES</text>
+  <text x="27" y="80" font-family="Arial,sans-serif" font-size="29" font-weight="900" letter-spacing="1" fill="#fff4ef">📱 iOS TOOLS & RESEARCH</text>
+  <path d="M842 32h213M842 45h163M842 58h190" stroke="#ff725c" stroke-width="4" stroke-linecap="round" opacity=".8"/><circle cx="1037" cy="78" r="9" fill="#ffb347"/><circle cx="1037" cy="78" r="16" fill="none" stroke="#ffb347" opacity=".45"/>
+</svg>
