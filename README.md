@@ -70,7 +70,6 @@ I like taking an idea that starts with “what if…?” and turning it into som
 | [**KAMUI**](https://github.com/murk-sus/kamui-escape) | Open-source iOS research project that includes a MobileGestalt editor and a UIKit toolbox. | Check the repo for supported builds, prerequisites, limitations, and device-safety notes. |
 | [**natsuk1**](https://github.com/murk-sus/natsuk1) | Research archive for iOS graphics/system experiments, observations, and technical write-ups. | Separates measured behavior from hypotheses and negative results. |
 | [**F1OOB-PoC**](https://github.com/murk-sus/F1OOB-PoC) | Focused harness documenting a GPU behavior observed inside an app context. | The documented scope is not kernel access or a general-purpose privilege escalation. Use only in an authorized test environment. |
-| [**KRW-GPU-exploit**](https://github.com/murk-sus/KRW-GPU-exploit) | Separate GPU research repository. | Experimental; consult its current README for scope and status. |
 | [**natsuk1-research**](https://github.com/murk-sus/natsuk1-research) | Supporting archive of research materials and scripts. | An archive/research repo rather than a polished end-user app. |
 | [**asuka4scape**](https://github.com/murk-sus/asuka4scape) | Jailbreak-themed project space. | See the repository for its current contents. |
 
