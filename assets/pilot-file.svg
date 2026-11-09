@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+  <title id="title">Pilot profile — Murk Surku</title>
+  <desc id="desc">Original anime-inspired mission console in Unit-02 red, amber, and black. No character artwork.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17131f"/><stop offset="1" stop-color="#321722"/></linearGradient>
+    <linearGradient id="bar" x1="0" x2="1"><stop stop-color="#ff4f43"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#ff7864" stroke-opacity=".12" stroke-width="1"/></pattern>
+  </defs>
+  <rect x="5" y="5" width="1090" height="210" rx="8" fill="url(#bg)" stroke="#ff624d" stroke-width="3"/>
+  <rect x="13" y="13" width="1074" height="194" rx="4" fill="url(#grid)"/>
+  <path d="M28 34h80l12 12H28z" fill="#ff624d"/><text x="38" y="43" font-family="monospace" font-size="12" font-weight="bold" fill="#17131f">PILOT FILE // 01</text>
+  <text x="36" y="105" font-family="Arial,sans-serif" font-size="46" font-weight="900" letter-spacing="3" fill="#fff4ef">MURK SURKU</text>
+  <text x="39" y="137" font-family="monospace" font-size="16" letter-spacing="2" fill="#ffb347">iOS TINKERING  /  PLUGIN ENGINEERING  /  RESEARCH</text>
+  <path d="M39 158h500" stroke="url(#bar)" stroke-width="3"/>
+  <text x="39" y="185" font-family="monospace" font-size="13" fill="#ffd9cf">STATUS: EXPLORING   •   SYNC: READY   •   MOOD: UNIT-02 RED × SAKURA PINK</text>
+  <path d="M916 38h132v132H916z" fill="#221722" stroke="#ff624d" stroke-width="2"/>
+  <path d="M932 148l30-78 27 52 18-31 23 57z" fill="none" stroke="#ff9a62" stroke-width="4"/>
+  <circle cx="982" cy="100" r="10" fill="#ff624d"/><path d="M930 58h25M1008 154h25" stroke="#ffd9cf" stroke-width="2"/>
+  <text x="932" y="190" font-family="monospace" font-size="11" fill="#ffb347">BUILD / 01-A</text>
+</svg>
