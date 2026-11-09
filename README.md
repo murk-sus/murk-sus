@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C8A,45:FF9A8B,100:9B72CF&height=230&section=header&text=Murk%20Surku&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=ios%20tinkering%20%20%E2%9C%A6%20%20plugin%20magic%20%20%E2%9C%A6%20%20pink%20chaos&descSize=17&descAlignY=57" alt="Animated pink and violet header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C8A,45:FF9A8B,100:9B72CF&height=230&section=header&text=Murk%20Surku&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=iOS%20tinkering%20%E2%9C%A6%20plugin%20magic%20%E2%9C%A6%20pink%20chaos&descSize=17&descAlignY=57" alt="Animated sakura and violet header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=FF6F91&center=true&vCenter=true&width=760&lines=やっほー！+I'm+Murk+%F0%9F%8C%B8;Building+tools%2C+plugins%2C+and+curious+experiments;Bold+ideas+%E2%80%A2+soft+colors+%E2%80%A2+tiny+bit+of+chaos" alt="Animated introduction" />
 
@@ -18,11 +18,11 @@
 
 <div align="center">
 
-### 🌸 `WELCOME, PILOT` · ようこそ！
+<img src="assets/pilot-file.svg" width="100%" alt="Murk Surku pilot profile: iOS tinkering, plugin engineering, and research" />
 
-**Murk Surku**　/　*iOS tinkerer · plugin maker · curious builder*
+<br />
 
-`[ STATUS: EXPLORING ]`　`[ MOOD: SAKURA × UNIT-02 RED ]`　`[ BUILD: NEVER QUITE FINISHED ]`
+<img src="assets/pilot-status.svg" width="100%" alt="Status: exploring; mood: sakura and Unit-02 red; build: always in progress" />
 
 </div>
 
@@ -47,7 +47,7 @@ I like taking an idea that starts with “what if…?” and turning it into som
 - **I enjoy:** exploring how platforms work, building tools, and sharing useful findings.
 - **I care about:** clear docs, accurate claims, safe testing, and making projects approachable.
 - **My aesthetic settings:** `#FF5C8A` sakura pink · `#FF6A3D` Unit-02 orange-red · `#17131F` terminal dark · `#B79BFF` soft violet.
-- **Current side quest:** making the profile README look less like a plain list and more like a tiny anime-style project hub.
+- **Current side quest:** making the profile README feel like a tiny anime-style project hub.
 
 </details>
 
@@ -89,13 +89,6 @@ I like taking an idea that starts with “what if…?” and turning it into som
 | [**ideal-barnacle**](https://github.com/murk-sus/ideal-barnacle) | A small public experiment; see the repository for current details. |
 | [**cuddly-train**](https://github.com/murk-sus/cuddly-train) | An older, minimal experiment from my project archive. |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RESEARCH-FF5C5C?style=for-the-badge&logo=probot&logoColor=white" alt="Research" />
-  <img src="https://img.shields.io/badge/PLUGINS-B79BFF?style=for-the-badge&logo=plug&logoColor=white" alt="Plugins" />
-  <img src="https://img.shields.io/badge/TOOLS-FF9A8B?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Tools" />
-  <img src="https://img.shields.io/badge/DOCS%20%26%20DETAILS-FF6F91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation" />
-</p>
-
 ## 🎀 Tool palette
 
 <p align="center">
@@ -120,20 +113,13 @@ I like taking an idea that starts with “what if…?” and turning it into som
 
 <div align="center">
 
-<a href="https://github.com/murk-sus">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff7fb&title_color=dc527a&icon_color=9b72cf&text_color=51465f&rank_icon=github&cache_seconds=86400" alt="Murk's GitHub stats card" />
-</a>
-<a href="https://github.com/murk-sus?tab=repositories">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murk-sus&layout=compact&hide_border=true&bg_color=fff7fb&title_color=dc527a&text_color=51465f&cache_seconds=86400" alt="Most used languages card" />
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff7fb&title_color=dc527a&icon_color=9b72cf&text_color=51465f&rank_icon=github&cache_seconds=86400" alt="Murk's GitHub stats card" />
 
-<a href="https://github.com/murk-sus">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murk-sus&theme=rose&hide_border=true&background=FFF7FB&ring=FF6F91&fire=FF8A65&currStreakLabel=9B72CF" alt="GitHub contribution streak card" />
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=murk-sus&layout=compact&hide_border=true&bg_color=fff7fb&title_color=dc527a&text_color=51465f&cache_seconds=86400" alt="Most used languages card" />
 
-<a href="https://github.com/murk-sus">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murk-sus&theme=rose" alt="GitHub profile activity summary" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=murk-sus&theme=rose&hide_border=true&background=FFF7FB&ring=FF6F91&fire=FF8A65&currStreakLabel=9B72CF" alt="GitHub contribution streak card" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murk-sus&theme=rose" alt="GitHub profile activity summary" />
 
 </div>
 
@@ -141,7 +127,7 @@ I like taking an idea that starts with “what if…?” and turning it into som
 <summary><b>🛠️ If a stats card is blank</b></summary>
 <br />
 
-These cards are images generated by external services; they do not need a workflow in this repository. GitHub may show a `camo.githubusercontent.com` address in the page source—that is its normal image proxy. Keep the original `github-readme-stats.vercel.app` / `github-profile-summary-cards.vercel.app` URLs in the README, rather than copying the camo URL. If a card still does not load, the image service may be rate-limited or temporarily unavailable; refresh later or deploy your own instance of the card service.
+The cards above are image embeds, not links, so clicking them will not send you to the profile page. Open an image URL directly to test the card service. If the image URL itself returns an error or blank page, the external card service may be unavailable or rate-limited; the README cannot force that third-party service to render. GitHub may rewrite image URLs to `camo.githubusercontent.com` in its page source—leave the original `github-readme-stats.vercel.app` URLs in this file.
 
 </details>
 
