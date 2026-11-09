@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="104" viewBox="0 0 1100 104" role="img" aria-labelledby="title desc">
+  <title id="title">Murk's pilot status indicators</title>
+  <desc id="desc">Three anime-console status panels: exploring, sakura and Unit-02 color mood, and always-in-progress build.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#19131f"/><stop offset="1" stop-color="#33202c"/></linearGradient>
+    <linearGradient id="red" x1="0" x2="1"><stop stop-color="#ff554a"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
+    <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff82ad"/><stop offset="1" stop-color="#c09bff"/></linearGradient>
+  </defs>
+  <rect x="3" y="3" width="1094" height="98" rx="15" fill="url(#base)" stroke="#7c546a" stroke-width="2"/>
+  <g font-family="Arial,sans-serif">
+    <rect x="15" y="14" width="342" height="76" rx="11" fill="#211923" stroke="#ff715c" stroke-width="2"/>
+    <circle cx="40" cy="39" r="9" fill="#ff6254"/><circle cx="40" cy="39" r="15" fill="none" stroke="#ff6254" opacity=".35"/>
+    <text x="64" y="37" font-size="11" font-weight="700" letter-spacing="2" fill="#ffb347">PILOT STATUS</text>
+    <text x="64" y="65" font-size="22" font-weight="800" fill="#fff4ef">EXPLORING</text>
+
+    <rect x="379" y="14" width="342" height="76" rx="11" fill="#211923" stroke="#d78bad" stroke-width="2"/>
+    <path d="M405 27c-12 0-19 10-19 20 0 12 19 27 19 27s19-15 19-27c0-10-7-20-19-20z" fill="url(#pink)"/>
+    <text x="440" y="37" font-size="11" font-weight="700" letter-spacing="2" fill="#f0b4d2">COLOR SYNC</text>
+    <text x="440" y="65" font-size="21" font-weight="800" fill="#fff4fa">SAKURA × UNIT-02</text>
+
+    <rect x="743" y="14" width="342" height="76" rx="11" fill="#211923" stroke="#9f83cb" stroke-width="2"/>
+    <path d="M769 28l4 10 11 1-8 7 3 11-10-6-10 6 3-11-8-7 11-1z" fill="#ffc857"/>
+    <text x="799" y="37" font-size="11" font-weight="700" letter-spacing="2" fill="#c9b5f2">BUILD STATUS</text>
+    <text x="799" y="65" font-size="21" font-weight="800" fill="#fff4ef">ALWAYS IN PROGRESS</text>
+  </g>
+</svg>
