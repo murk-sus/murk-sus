@@ -16,50 +16,86 @@
 
 ---
 
+<div align="center">
+
+### 🌸 `WELCOME, PILOT` · ようこそ！
+
+**Murk Surku**　/　*iOS tinkerer · plugin maker · curious builder*
+
+`[ STATUS: EXPLORING ]`　`[ MOOD: SAKURA × UNIT-02 RED ]`　`[ BUILD: NEVER QUITE FINISHED ]`
+
+</div>
+
 ## 🌸 Hi, I'm Murk!
 
-I enjoy making software that starts as a curious idea and turns into something people can actually use. My projects range from iOS tools and technical research archives to chat plugins, SDKs, and small desktop utilities.
+I like taking an idea that starts with “what if…?” and turning it into something people can explore, learn from, or use. My projects move between **iOS tools**, **plugin ecosystems**, **technical research**, and **small utilities**. I enjoy both the tricky experiments and the satisfying part where the README finally explains what is going on.
 
-**My usual flavor:** ambitious experiments, practical documentation, playful names, and a UI accent color that is probably pink.
+<table>
+  <tr>
+    <td align="center" width="33%"><b>📱 PLATFORM</b><br />iOS · Apple tooling · customization</td>
+    <td align="center" width="33%"><b>🧁 CREATIVE MODE</b><br />Plugins · SDKs · useful little tools</td>
+    <td align="center" width="33%"><b>🔎 RESEARCH MODE</b><br />Experiments · notes · honest limitations</td>
+  </tr>
+</table>
 
-> **The aesthetic:** Asuka-inspired confidence and fire-red accents meet Natsuki-inspired sakura pink, cute details, and a soft spot for creative projects. This is a fan-inspired color-and-mood nod—not official character art or affiliation. 🎀
+> <b>PERSONALITY CONFIG</b>　Asuka-inspired confidence and Unit-02 reds, balanced with Natsuki-style sakura pink, cute details, and creative energy. A fan-inspired color-and-mood tribute—not official artwork or affiliation. 🎀
+
+<details>
+<summary><b>📟 Open pilot profile</b></summary>
+<br />
+
+- **I enjoy:** exploring how platforms work, building tools, and sharing useful findings.
+- **I care about:** clear docs, accurate claims, safe testing, and making projects approachable.
+- **My aesthetic settings:** `#FF5C8A` sakura pink · `#FF6A3D` Unit-02 orange-red · `#17131F` terminal dark · `#B79BFF` soft violet.
+- **Current side quest:** making the profile README look less like a plain list and more like a tiny anime-style project hub.
+
+</details>
 
 ## 💫 What I like working on
 
-- **iOS & Apple platforms** — app tooling, customization experiments, and learning how platform components fit together.
-- **Plugins & developer experience** — APIs, SDKs, examples, validation tools, and catalogs that help other people build things.
-- **Security research** — controlled, authorized testing with a focus on documenting scope, limitations, and negative results responsibly.
-- **Automation & utilities** — small tools that remove repetitive steps without taking control away from the user.
-- **Documentation** — clear setup instructions and honest notes about what works, what does not, and what is still experimental.
+<table>
+  <tr><td>📱 <b>iOS & Apple platforms</b></td><td>App tooling, customization experiments, and learning how platform components fit together.</td></tr>
+  <tr><td>🧁 <b>Plugins & developer experience</b></td><td>APIs, SDKs, examples, validation tools, and catalogs that help other people build things.</td></tr>
+  <tr><td>🔎 <b>Security research</b></td><td>Authorized, controlled research with careful scope, responsible notes, and clear separation between results and hypotheses.</td></tr>
+  <tr><td>⚙️ <b>Automation & utilities</b></td><td>Small tools that remove repetitive steps while keeping the user in control.</td></tr>
+  <tr><td>📚 <b>Documentation</b></td><td>Setup guides and honest explanations of what works, what does not, and what is still experimental.</td></tr>
+</table>
 
-## 🍓 Featured projects
+## 🍓 Project hangar
 
-### 📱 iOS tools & research
+### 📱 iOS tools & research　`RED ALERT: RESEARCH DIVISION`
 
-| Project | A little about it | Status / notes |
-|---|---|---|
-| [**KAMUI**](https://github.com/murk-sus/kamui-escape) | Open-source iOS research project with a MobileGestalt editor and a UIKit toolbox. | Read the project README for supported builds, prerequisites, limitations, and device-safety notes. |
-| [**natsuk1**](https://github.com/murk-sus/natsuk1) | Research archive collecting iOS graphics/system experiments, observations, and write-ups. | Carefully distinguishes confirmed behavior from hypotheses and negative results. |
-| [**F1OOB-PoC**](https://github.com/murk-sus/F1OOB-PoC) | A focused research harness and write-up for a GPU behavior observed inside an app context. | The documented scope is not kernel access or a general-purpose privilege escalation. Use only in an authorized test environment. |
-| [**KRW-GPU-exploit**](https://github.com/murk-sus/KRW-GPU-exploit) | Separate GPU research repository. | Experimental research; check its current README and scope before drawing conclusions. |
-| [**natsuk1-research**](https://github.com/murk-sus/natsuk1-research) | Supporting archive for iOS system research materials and scripts. | A research/archival repo, not a polished end-user application. |
-| [**asuka4scape**](https://github.com/murk-sus/asuka4scape) | Jailbreak-themed project space. | See the repository for the current project contents. |
+| Project | Mission briefing | Read this first |
+|:--|:--|:--|
+| [**KAMUI**](https://github.com/murk-sus/kamui-escape) | Open-source iOS research project that includes a MobileGestalt editor and a UIKit toolbox. | Check the repo for supported builds, prerequisites, limitations, and device-safety notes. |
+| [**natsuk1**](https://github.com/murk-sus/natsuk1) | Research archive for iOS graphics/system experiments, observations, and technical write-ups. | Separates measured behavior from hypotheses and negative results. |
+| [**F1OOB-PoC**](https://github.com/murk-sus/F1OOB-PoC) | Focused harness documenting a GPU behavior observed inside an app context. | The documented scope is not kernel access or a general-purpose privilege escalation. Use only in an authorized test environment. |
+| [**KRW-GPU-exploit**](https://github.com/murk-sus/KRW-GPU-exploit) | Separate GPU research repository. | Experimental; consult its current README for scope and status. |
+| [**natsuk1-research**](https://github.com/murk-sus/natsuk1-research) | Supporting archive of research materials and scripts. | An archive/research repo rather than a polished end-user app. |
+| [**asuka4scape**](https://github.com/murk-sus/asuka4scape) | Jailbreak-themed project space. | See the repository for its current contents. |
 
-### 🧁 Plugins & developer tools
+### 🧁 Plugin lab　`CREATIVE ENGINE: ONLINE`
 
-| Project | A little about it |
-|---|---|
-| [**VoidGram Plugin SDK**](https://github.com/murk-sus/VoidGram-Plugin-SDK) | A developer toolkit with API documentation, examples, SDKs for multiple languages, utilities, and plugin sources. |
-| [**VoidGram Plugins**](https://github.com/murk-sus/VoidGram-plugins) | A catalog featuring code plugins and native plugin entries for the iOS client ecosystem. |
-| [**AyuGramm for iOS**](https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS) | I contribute as a co-author; the public project lives in the linked repository. |
+| Project | What’s inside |
+|:--|:--|
+| [**VoidGram Plugin SDK**](https://github.com/murk-sus/VoidGram-Plugin-SDK) | API documentation, examples, tools, plugin sources, and SDKs for several languages—everything needed to explore plugin development. |
+| [**VoidGram Plugins**](https://github.com/murk-sus/VoidGram-plugins) | A plugin catalog spanning code plugins and native-style entries for the iOS client ecosystem. |
+| [**AyuGramm for iOS**](https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS) | Collaborative project where I contribute as a co-author. |
 
-### 🖥️ Small utilities & other experiments
+### 🖥️ Utility shelf　`SMALL TOOLS, BIG SIDE-QUEST ENERGY`
 
-| Project | A little about it |
-|---|---|
-| [**AI Helper Terminal**](https://github.com/murk-sus/AI-helper-windows-11) | A local, terminal-based assistant with explicit confirmation for file changes and shell commands. |
-| [**ideal-barnacle**](https://github.com/murk-sus/ideal-barnacle) | A small public experiment/repository. |
-| [**cuddly-train**](https://github.com/murk-sus/cuddly-train) | An older, minimal repository from my experiments. |
+| Project | What it does |
+|:--|:--|
+| [**AI Helper Terminal**](https://github.com/murk-sus/AI-helper-windows-11) | Local, terminal-based assistant with explicit confirmation for file changes and shell commands. |
+| [**ideal-barnacle**](https://github.com/murk-sus/ideal-barnacle) | A small public experiment; see the repository for current details. |
+| [**cuddly-train**](https://github.com/murk-sus/cuddly-train) | An older, minimal experiment from my project archive. |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RESEARCH-FF5C5C?style=for-the-badge&logo=probot&logoColor=white" alt="Research" />
+  <img src="https://img.shields.io/badge/PLUGINS-B79BFF?style=for-the-badge&logo=plug&logoColor=white" alt="Plugins" />
+  <img src="https://img.shields.io/badge/TOOLS-FF9A8B?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Tools" />
+  <img src="https://img.shields.io/badge/DOCS%20%26%20DETAILS-FF6F91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation" />
+</p>
 
 ## 🎀 Tool palette
 
@@ -70,27 +106,53 @@ I enjoy making software that starts as a curious idea and turns into something p
   <img src="https://img.shields.io/badge/C%2B%2B-7FA6D8?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-FF9EBB?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Rust-C8A2C8?style=for-the-badge&logo=rust&logoColor=242038" alt="Rust" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20Markdown-FFB86B?style=for-the-badge&logo=markdown&logoColor=242038" alt="HTML and Markdown" />
+  <img src="https://img.shields.io/badge/Markdown-FFB86B?style=for-the-badge&logo=markdown&logoColor=242038" alt="Markdown" />
 </p>
-
-I like choosing the right tool for the job—and learning a new one when the project gives me a good excuse. Some repositories are collaborative, archival, or experimental, so their README files are the best place for current setup and status details.
-
-## 📊 GitHub corner
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=dc527a&icon_color=9b72cf&text_color=51465f&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murk-sus&layout=compact&hide_border=true&bg_color=fff7fb&title_color=dc527a&text_color=51465f" alt="Most used languages" />
+`OBJECTIVE-C`　✦　`PYTHON`　✦　`JAVASCRIPT`　✦　`C++ / C#`　✦　`RUST`
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=murk-sus&theme=rose&hide_border=true&background=FFF7FB&ring=FF6F91&fire=FF8A65&currStreakLabel=9B72CF" alt="GitHub contribution streak" />
+*The stack changes with the mission. Curiosity is the only required dependency.*
 
 </div>
 
+## 📊 GitHub corner　`SYNCING PILOT DATA…`
+
+<div align="center">
+
+<a href="https://github.com/murk-sus">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff7fb&title_color=dc527a&icon_color=9b72cf&text_color=51465f&rank_icon=github&cache_seconds=86400" alt="Murk's GitHub stats card" />
+</a>
+<a href="https://github.com/murk-sus?tab=repositories">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murk-sus&layout=compact&hide_border=true&bg_color=fff7fb&title_color=dc527a&text_color=51465f&cache_seconds=86400" alt="Most used languages card" />
+</a>
+
+<a href="https://github.com/murk-sus">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murk-sus&theme=rose&hide_border=true&background=FFF7FB&ring=FF6F91&fire=FF8A65&currStreakLabel=9B72CF" alt="GitHub contribution streak card" />
+</a>
+
+<a href="https://github.com/murk-sus">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murk-sus&theme=rose" alt="GitHub profile activity summary" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🛠️ If a stats card is blank</b></summary>
+<br />
+
+These cards are images generated by external services; they do not need a workflow in this repository. GitHub may show a `camo.githubusercontent.com` address in the page source—that is its normal image proxy. Keep the original `github-readme-stats.vercel.app` / `github-profile-summary-cards.vercel.app` URLs in the README, rather than copying the camo URL. If a card still does not load, the image service may be rate-limited or temporarily unavailable; refresh later or deploy your own instance of the card service.
+
+</details>
+
 ## 🌐 Find me
 
-- **Telegram:** [@asuka4scape](https://t.me/asuka4scape)
-- **GitHub:** [@murk-sus](https://github.com/murk-sus)
-- **Co-author work:** [AyuGramm-IOS](https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS)
+<p align="center">
+  <a href="https://t.me/asuka4scape"><img src="https://img.shields.io/badge/Telegram-@asuka4scape-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @asuka4scape" /></a>
+  <a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/GitHub-@murk--sus-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @murk-sus" /></a>
+  <a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><img src="https://img.shields.io/badge/Co--author-AyuGramm_iOS-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="AyuGramm iOS" /></a>
+</p>
 
 ## 🐍 Contribution garden
 
