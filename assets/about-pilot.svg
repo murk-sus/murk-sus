@@ -1,34 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="title desc">
-  <title id="title">Murk's creative pilot profile</title>
-  <desc id="desc">Original anime-inspired dashboard illustration with a small friendly pilot mascot, abstract mecha panels, and sakura decorations.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#181421"/><stop offset=".58" stop-color="#302034"/><stop offset="1" stop-color="#492239"/></linearGradient>
-    <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff79ab"/><stop offset="1" stop-color="#d8a4ff"/></linearGradient>
-    <linearGradient id="orange" x1="0" x2="1"><stop stop-color="#ff594d"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
-    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#ffb4d2" stroke-opacity=".10"/></pattern>
-  </defs>
-  <rect x="4" y="4" width="1092" height="242" rx="20" fill="url(#bg)" stroke="#ff83b4" stroke-width="3"/>
-  <rect x="14" y="14" width="1072" height="222" rx="14" fill="url(#grid)"/>
-  <path d="M28 34h210l18 18H28z" fill="url(#orange)"/><text x="43" y="48" font-family="monospace" font-size="13" font-weight="bold" fill="#211622">PILOT PROFILE // MURK SURKU</text>
-  <text x="38" y="112" font-family="Arial,sans-serif" font-size="43" font-weight="900" letter-spacing="2" fill="#fff4fa">IDEAS → TOOLS → MORE IDEAS</text>
-  <text x="41" y="145" font-family="monospace" font-size="16" letter-spacing="1" fill="#ffc4dc">iOS tinkering  ·  plugin making  ·  curious experiments</text>
-  <path d="M40 166h535" stroke="url(#pink)" stroke-width="3"/>
-  <text x="41" y="194" font-family="monospace" font-size="13" fill="#ffe6ef">BUILDING USEFUL THINGS, ONE SIDE QUEST AT A TIME ✦</text>
-  <text x="41" y="218" font-family="monospace" font-size="11" fill="#cbb6d7">ASUKA ENERGY × NATSUKI SOFTNESS — ORIGINAL FAN-INSPIRED MOOD</text>
-  <!-- Original friendly pilot mascot, intentionally not based on a named character. -->
-  <g transform="translate(742 39)">
-    <path d="M86 17 111 2l-4 30 23 10-28 7" fill="url(#orange)" stroke="#ffe0d0" stroke-width="3" stroke-linejoin="round"/>
-    <path d="M156 17 131 2l4 30-23 10 28 7" fill="url(#pink)" stroke="#ffe0ef" stroke-width="3" stroke-linejoin="round"/>
-    <path d="M78 48q8-30 43-30t43 30l-8 71q-7 34-35 34t-35-34z" fill="#ffd5e4" stroke="#fff0f6" stroke-width="4"/>
-    <path d="M91 80q12-15 25 0-12 16-25 0m18 0q12-15 25 0-12 16-25 0" fill="#49304c"/>
-    <circle cx="103" cy="79" r="4" fill="#ff668e"/><circle cx="127" cy="79" r="4" fill="#ff668e"/>
-    <path d="M108 105q9 7 18 0" fill="none" stroke="#b65c83" stroke-width="3" stroke-linecap="round"/>
-    <path d="M78 121q43 22 86 0l17 66H61z" fill="#ff6d68" stroke="#ffc3c2" stroke-width="4"/>
-    <path d="M92 138h58l-9 49h-40z" fill="#423047"/><path d="M109 141h24v22h-24z" fill="#ffbf4d"/>
-    <path d="M91 186h25v20H91m30-20h25v20h-25" fill="#f7c7dc" stroke="#fff0f6" stroke-width="3"/>
-    <path d="M71 74 48 59m126 15 23-15" stroke="#ff9aba" stroke-width="5" stroke-linecap="round"/>
-  </g>
-  <g fill="#ffb4d2"><path d="M1007 45c-8-10 2-17 10-10 7-8 17 0 10 10-5 7-10 12-10 12s-5-5-10-12z"/><path d="M1016 105c-7-8 1-14 8-8 6-7 14 0 8 8-4 6-8 10-8 10s-4-4-8-10z"/></g>
-  <path d="M980 181h72M1008 164v35" stroke="#ffb347" stroke-width="3" opacity=".8"/>
-  <text x="972" y="220" font-family="monospace" font-size="11" fill="#ffd4e6">CREATIVE MODE: ON</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Pilot illustration">
+  <image href="https://raw.githubusercontent.com/murk-sus/murk-sus/main/изображение.png" width="1600" height="900" preserveAspectRatio="xMidYMid meet"/>
 </svg>
