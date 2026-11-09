@@ -1,107 +1,122 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=30&pause=1000&color=E5E7EB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Murk+Surku+%F0%9F%91%8B;13+years+old+%7C+builder+%7C+tinkerer;C%2B%2B+%7C+C%23+%7C+JavaScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=1200&color=FF7AA2&center=true&vCenter=true&width=760&lines=nyaa~+I'm+Murk+%F0%9F%92%8C;curious+dev+%E2%80%A2+iOS+researcher+%E2%80%A2+plugin+builder;building+weird+useful+things+with+code" alt="Murk intro" />
 
-  <p>
-    <a href="https://github.com/murk-sus">
-      <img src="https://img.shields.io/badge/GitHub-@murk--sus-181717?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://t.me/asuka4scape_developer">
-      <img src="https://img.shields.io/badge/Telegram-@asuka4scape__developer-26A5E4?style=for-the-badge&logo=telegram" />
-    </a>
-    <a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS">
-      <img src="https://img.shields.io/badge/Co-author-AyuGramm-iOS-8B5CF6?style=for-the-badge&logo=github" />
-    </a>
-  </p>
+<h3>✦ sakura chaos / iOS experiments / plugin magic ✦</h3>
+
+<p>
+  <a href="https://github.com/murk-sus">
+    <img src="https://img.shields.io/badge/GitHub-@murk--sus-1E1E2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/asuka4scape_developer">
+    <img src="https://img.shields.io/badge/Telegram-DM-FF6F91?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/murk-sus/VoidGram-Plugin-SDK">
+    <img src="https://img.shields.io/badge/VoidGram-Plugin_SDK-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="VoidGram SDK" />
+  </a>
+</p>
 
 </div>
 
+---
+
+## 🌸 little intro
+
+I like turning chaotic ideas into tools that are at least partly useful.
+
+I build around:
+- iOS tinkering and research
+- plugin ecosystems and SDKs
+- small developer utilities
+- reverse-engineering experiments
+- automation and weird-but-practical scripts
+
+> Fan-inspired vibe: bold red-orange spark + pastel pink softness. A little Asuka energy, a little Natsuki charm, but still original.
+
+---
+
+## ✨ featured projects
+
+<table>
+  <tr>
+    <td width="50%"><b><a href="https://github.com/murk-sus/kamui-escape">KAMUI</a></b></td>
+    <td width="50%">iOS sandbox-escape research + MobileGestalt tooling project with docs, usage notes, and safety warnings.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/murk-sus/natsuk1">natsuk1</a></b></td>
+    <td>Research archive and findings log around iOS 27.2 GPU/kernel work, with careful scope and negative-result documentation.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/murk-sus/F1OOB-PoC">F1OOB-PoC</a></b></td>
+    <td>GPU-side research harness focused on same-context OOB behavior and objective reporting of what’s real vs. speculation.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/murk-sus/VoidGram-Plugin-SDK">VoidGram Plugin SDK</a></b></td>
+    <td>Docs, tooling, SDKs, examples, and plugin sources for plugin development in the VoidGram ecosystem.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/murk-sus/VoidGram-plugins">VoidGram plugins</a></b></td>
+    <td>Catalog of JavaScript, Python, Rust/WASM, and native-style plugins for the iOS client ecosystem.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/murk-sus/AI-helper-windows-11">AI Helper Terminal</a></b></td>
+    <td>Local Windows-focused assistant with permission gates for file writes and shell commands.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/murk-sus/asuka4scape">asuka4scape</a></b></td>
+    <td>Project space for jailbreak / iOS tooling experiments and related research notes.</td>
+  </tr>
+</table>
+
+---
+
+## 🧪 other experiment spots
+
+- [natsuk1-research](https://github.com/murk-sus/natsuk1-research)
+- [KRW-GPU-exploit](https://github.com/murk-sus/KRW-GPU-exploit)
+- [VoidGram-Plugin-SDK](https://github.com/murk-sus/VoidGram-Plugin-SDK)
+- [VoidGram-plugins](https://github.com/murk-sus/VoidGram-plugins)
+- [AI-helper-windows-11](https://github.com/murk-sus/AI-helper-windows-11)
+- [murk-sus](https://github.com/murk-sus/murk-sus)
+
+Some repos are research archives or early experiments, so the best source of truth is always the repository README itself.
+
+---
+
+## 💖 stack + tools
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&theme=slateorange&hide_border=true&count_private=true&title_color=F8FAFC&icon_color=F8FAFC&text_color=E5E7EB&bg_color=0B0F14" alt="GitHub stats" height="180" />
-</p>
-
-## About me
-
-I build tools, experiments, and weird ideas that somehow become useful.
-
-- 13 years old
-- C++ enthusiast
-- C# tinkerer
-- JavaScript explorer
-- iOS / jailbreak / tweaks / automation interest
-- curious about security, reverse engineering, and useful side projects
-
-I like turning sharp ideas into real tools and interesting systems.
-
----
-
-## Socials
-
-<p align="left">
-  <a href="https://t.me/jailbreak_IOS_and_tweaks">
-    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://t.me/jailbreak_iPhone_iPad_android">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://t.me/asuka4scape_developer">
-    <img src="https://img.shields.io/badge/Telegram-LS-26A5E4?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
-
-- Channel: [jailbreak_IOS_and_tweaks](https://t.me/jailbreak_IOS_and_tweaks)
-- Chat: [jailbreak_iPhone_iPad_android](https://t.me/jailbreak_iPhone_iPad_android)
-- DM: [@asuka4scape_developer](https://t.me/asuka4scape_developer)
-
----
-
-## Main projects
-
-<p align="left">
-  <a href="https://github.com/murk-sus/AyuGramm-Plugins">
-    <img src="https://img.shields.io/badge/AyuGramm-Plugins-8B5CF6?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/murk-sus/asuka-4-scape">
-    <img src="https://img.shields.io/badge/asuka-4-scape-EA4C89?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/murk-sus/asuka4scape-source-vulnerabilities">
-    <img src="https://img.shields.io/badge/asuka4scape-source-vulnerabilities-FF6B6B?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-- [AyuGramm-Plugins](https://github.com/murk-sus/AyuGramm-Plugins)
-- [asuka-4-scape](https://github.com/murk-sus/asuka-4-scape)
-- [asuka4scape-source-vulnerabilities](https://github.com/murk-sus/asuka4scape-source-vulnerabilities)
-- [AyuGramm-iOS](https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS) — co-author
-
----
-
-## Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Objective--C-FF8FA3?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/Python-8E8DFF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F9C9D8?style=for-the-badge&logo=javascript&logoColor=1E1E2E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-8EC5FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Rust-C8B6FF?style=for-the-badge&logo=rust&logoColor=1E1E2E" alt="Rust" />
 </p>
 
 ---
 
-## Current focus
+## 🌐 socials
 
-- iOS / jailbreak tools
-- tweak ecosystem experiments
-- reverse engineering
-- automation and scripts
-- useful side projects with a bit of chaos
+- Telegram DM: [@asuka4scape_developer](https://t.me/asuka4scape_developer)
+- Telegram channel: [jailbreak_IOS_and_tweaks](https://t.me/jailbreak_IOS_and_tweaks)
+- Telegram chat: [jailbreak_iPhone_iPad_android](https://t.me/jailbreak_iPhone_iPad_android)
+- Co-author: [AyuGramm-IOS](https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS)
 
 ---
+
+## ✨ little style note
+
+This profile is intentionally kawaii, dramatic, and a bit chaotic — like a dev who likes sharp ideas, bright colors, and making tools no one asked for but everyone secretly likes.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center">
-  <i>made with code, curiosity, and a little chaos ✦</i>
-</p>
+<div align="center">
+
+<i>made with curiosity, caffeine, and just enough pink chaos ✦</i>
+
+</div>
