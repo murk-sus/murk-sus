@@ -8,6 +8,8 @@
   <a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/GitHub-murk--sus-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://t.me/asuka4scape"><img src="https://img.shields.io/badge/Telegram-@asuka4scape-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @asuka4scape" /></a>
   <a href="https://github.com/murk-sus/VoidGram-Plugin-SDK"><img src="https://img.shields.io/badge/Plugin_SDK-VoidGram-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="VoidGram Plugin SDK" /></a>
+  <a href="https://t.me/jailbreak_IOS_and_tweaks"><img src="https://img.shields.io/badge/Channel-Holy_VibeCode-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel Holy VibeCode project" /></a>
+  <a href="https://murk-sus.github.io/donate/"><img src="https://img.shields.io/badge/Support-💖_donate-FF5C8A?style=for-the-badge" alt="Donate" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=murk-sus&style=flat-square&color=ff7aa2&label=profile+visitors" alt="Profile visitor counter" />
@@ -57,6 +59,23 @@ I like taking an idea that starts with “what if…?” and turning it into som
   <tr><td>📚 <b>Documentation</b></td><td>Setup guides and honest explanations of what works, what does not, and what is still experimental.</td></tr>
 </table>
 
+## 🚀 Featured tools　`READY FOR LAUNCH`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://murk-sus.github.io/IPALens/"><b>🔍 IPALens</b></a>　<img src="https://img.shields.io/github/stars/murk-sus/IPALens?style=flat-square&color=9B72CF" alt="stars" /><br />
+      Look inside any <b>IPA, .deb tweak, mobileprovision or .p12</b> right in your browser. Decrypted or not, injected tweaks, “is my UDID in this profile?”, p12 ↔ profile match, rootful / rootless / roothide. Nothing is uploaded.<br />
+      <a href="https://murk-sus.github.io/IPALens/"><img src="https://img.shields.io/badge/OPEN-IPALens-7C5CFF?style=flat-square" alt="Open IPALens" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/murk-sus/SayoSign"><b>🎀 SayoSign</b></a>　<img src="https://img.shields.io/github/stars/murk-sus/SayoSign?style=flat-square&color=FF6F91" alt="stars" /><br />
+      On-device IPA signer: <b>.p12 or Apple ID</b>, tweak injection with its own hooking engine, OCSP revocation check, offline installs. English, Русский, 中文.<br />
+      <a href="https://github.com/murk-sus/SayoSign/releases/latest"><img src="https://img.shields.io/github/v/release/murk-sus/SayoSign?style=flat-square&color=F0566E&label=download" alt="Download" /></a>
+    </td>
+  </tr>
+</table>
+
 ## 🍓 Project hangar
 
 <p align="center"><img src="assets/research-divider.svg" width="100%" alt="Anime console graphic for iOS tools and research" /></p>
@@ -76,7 +95,7 @@ I like taking an idea that starts with “what if…?” and turning it into som
   <tr><th align="left">PROJECT</th><th align="left">INSIDE THE LAB</th></tr>
   <tr><td><a href="https://github.com/murk-sus/VoidGram-Plugin-SDK"><b>VoidGram Plugin SDK</b></a><br /><img src="https://img.shields.io/badge/SDK-DOCS-9B72CF?style=flat-square" alt="SDK and docs" /></td><td>Documentation, examples, and the platform logic to help others build with confidence.</td></tr>
   <tr><td><a href="https://github.com/murk-sus/VoidGram-plugins"><b>VoidGram Plugins</b></a><br /><img src="https://img.shields.io/badge/PLUGIN-CATALOG-FF6F91?style=flat-square" alt="Plugin catalog" /></td><td>Catalog of practical plugins and extensions.</td></tr>
-  <tr><td><a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><b>AyuGramm for iOS</b></a><br /><img src="https://img.shields.io/badge/COLLAB-CO--AUTHOR-2AABEE?style=flat-square" alt="Collaboration" /></td><td>Collaborative work on iOS-facing tooling and public-facing experiments.</td></tr>
+  <tr><td><a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><b>VoidGram for iOS</b></a><br /><img src="https://img.shields.io/badge/DEV-VOIDGRAM-2AABEE?style=flat-square" alt="VoidGram developer" /></td><td>Telegram client for iOS. I'm one of its developers: features, plugin system and the SDK.</td></tr>
 </table>
 
 <p align="center"><img src="assets/utility-divider.svg" width="100%" alt="Anime terminal illustration for desktop utilities and side projects" /></p>
@@ -135,7 +154,9 @@ The cards above are image embeds, not links, so clicking them will not send you 
 <p align="center">
   <a href="https://t.me/asuka4scape"><img src="https://img.shields.io/badge/Telegram-@asuka4scape-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @asuka4scape" /></a>
   <a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/GitHub-@murk--sus-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @murk-sus" /></a>
-  <a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><img src="https://img.shields.io/badge/Co--author-AyuGramm_iOS-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="AyuGramm iOS" /></a>
+  <a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><img src="https://img.shields.io/badge/Dev-VoidGram_iOS-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="VoidGram iOS" /></a>
+  <a href="https://t.me/jailbreak_IOS_and_tweaks"><img src="https://img.shields.io/badge/Channel-@jailbreak__IOS__and__tweaks-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel" /></a>
+  <a href="https://murk-sus.github.io/"><img src="https://img.shields.io/badge/Site-murk--sus.github.io-FF9A8B?style=for-the-badge" alt="Website" /></a>
 </p>
 
 ## 🐍 Contribution garden
