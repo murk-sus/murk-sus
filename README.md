@@ -1,178 +1,144 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C8A,45:FF9A8B,100:9B72CF&height=230&section=header&text=Murk%20Surku&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fade&animationDuration=4" alt="Murk Surku banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=FF6F91&center=true&vCenter=true&width=760&lines=やっほー！+I'm+Murk+%F0%9F%8C%B8;Building+things+that+feel+alive.;iOS+tools+%7C+plugins+%7C+weird+ideas.;One+tiny+project+at+a+time." alt="Typing intro" />
-
-<p>
-  <a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/GitHub-murk--sus-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://t.me/asuka4scape"><img src="https://img.shields.io/badge/Telegram-@asuka4scape-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @asuka4scape" /></a>
-  <a href="https://github.com/murk-sus/VoidGram-Plugin-SDK"><img src="https://img.shields.io/badge/Plugin_SDK-VoidGram-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="VoidGram Plugin SDK" /></a>
-  <a href="https://t.me/jailbreak_IOS_and_tweaks"><img src="https://img.shields.io/badge/Channel-Holy_VibeCode-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel Holy VibeCode project" /></a>
-  <a href="https://murk-sus.github.io/donate/"><img src="https://img.shields.io/badge/Support-💖_donate-FF5C8A?style=for-the-badge" alt="Donate" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=murk-sus&style=flat-square&color=ff7aa2&label=profile+visitors" alt="Profile visitor counter" />
-
-</div>
-
----
+<!-- ╭──────────────────────────────────────────────────────────────╮ -->
+<!-- │  murk · github profile  ·  iOS tools, plugins & research       │ -->
+<!-- ╰──────────────────────────────────────────────────────────────╯ -->
 
 <div align="center">
 
-<img src="assets/about-pilot.svg" width="100%" alt="Original anime-inspired pilot illustration for Murk's profile" />
+<img src="assets/hero.svg" width="100%" alt="murk — iOS signing, sideloading, tweaks and kernel research" />
+
+<br/>
+
+<a href="https://murk-sus.github.io/"><img src="https://img.shields.io/badge/website-murk--sus.github.io-ff5c8a?style=for-the-badge&labelColor=1a0f16" alt="Website"/></a>
+<a href="https://t.me/jailbreak_IOS_and_tweaks"><img src="https://img.shields.io/badge/telegram-Holy_VibeCode-2aabee?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0f16" alt="Telegram"/></a>
+<a href="https://murk-sus.github.io/donate/"><img src="https://img.shields.io/badge/💖_support-donate-b79bff?style=for-the-badge&labelColor=1a0f16" alt="Donate"/></a>
+<img src="https://komarev.com/ghpvc/?username=murk-sus&style=for-the-badge&color=ff5c8a&label=visitors&labelColor=1a0f16" alt="Visitors"/>
 
 </div>
 
-## 🌸 Hi, I'm Murk!
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-I like taking an idea that starts with “what if…?” and turning it into something people can explore, learn from, or use. My projects move between **iOS tools**, **plugin ecosystems**, **technical experiments**, and **small utilities** that are useful enough to keep around.
+## `~` whoami
 
-<table>
-  <tr>
-    <td align="center" width="33%"><b>📱 PLATFORM</b><br />iOS · Apple tooling · customization</td>
-    <td align="center" width="33%"><b>🧁 CREATIVE MODE</b><br />Plugins · SDKs · useful little tools</td>
-    <td align="center" width="33%"><b>🔎 RESEARCH MODE</b><br />Experiments · notes · honest limitations</td>
-  </tr>
-</table>
+```ansi
+murk@unit-02 ~ % cat about.txt
+```
 
-> <b>PERSONALITY CONFIG</b>　Asuka-inspired confidence and Unit-02 reds, balanced with Natsuki-style sakura pink, cute details, and creative energy. A fan-inspired color-and-mood tribute—not of any one character, but of the vibe.
-
-<details>
-<summary><b>📟 Open pilot profile</b></summary>
-<br />
-
-- **I enjoy:** exploring how platforms work, building tools, and sharing useful findings.
-- **I care about:** clear docs, accurate claims, safe testing, and making projects approachable.
-- **My aesthetic settings:** `#FF5C8A` sakura pink · `#FF6A3D` Unit-02 orange-red · `#17131F` terminal dark · `#B79BFF` soft violet.
-- **Current side quest:** making the profile README feel like a tiny anime-style project hub.
-
-</details>
-
-## 💫 What I like working on
+> I take an idea that starts with **“what if…?”** and turn it into something people can
+> actually install, learn from, or break on purpose. I live between **iOS tooling**,
+> **plugin ecosystems**, and **low-level research** — and I like shipping the tool I wished existed.
 
 <table>
-  <tr><td>📱 <b>iOS & Apple platforms</b></td><td>App tooling, customization experiments, and learning how platform components fit together.</td></tr>
-  <tr><td>🧁 <b>Plugins & developer experience</b></td><td>APIs, SDKs, examples, validation tools, and catalogs that help other people build things.</td></tr>
-  <tr><td>🔎 <b>Security research</b></td><td>Authorized, controlled research with careful scope, responsible notes, and clear separation between results and hypotheses.</td></tr>
-  <tr><td>⚙️ <b>Automation & utilities</b></td><td>Small tools that remove repetitive steps while keeping the user in control.</td></tr>
-  <tr><td>📚 <b>Documentation</b></td><td>Setup guides and honest explanations of what works, what does not, and what is still experimental.</td></tr>
+<tr>
+<td width="33%" align="center"><b>📱 PLATFORM</b><br/><sub>iOS · signing · sideloading · customization</sub></td>
+<td width="33%" align="center"><b>🧩 BUILDER</b><br/><sub>plugins · SDKs · desktop tools</sub></td>
+<td width="33%" align="center"><b>🧬 RESEARCH</b><br/><sub>kernel · sandbox · GPU · honest notes</sub></td>
+</tr>
 </table>
 
-## 🚀 Featured tools　`READY FOR LAUNCH`
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🚀 Featured — ready for launch
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://murk-sus.github.io/IPALens/"><b>🔍 IPALens</b></a>　<img src="https://img.shields.io/github/stars/murk-sus/IPALens?style=flat-square&color=9B72CF" alt="stars" /><br />
-      Look inside any <b>IPA, .deb tweak, mobileprovision or .p12</b> right in your browser. Decrypted or not, injected tweaks, “is my UDID in this profile?”, p12 ↔ profile match, rootful / rootless / roothide. Nothing is uploaded.<br />
-      <a href="https://murk-sus.github.io/IPALens/"><img src="https://img.shields.io/badge/OPEN-IPALens-7C5CFF?style=flat-square" alt="Open IPALens" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/murk-sus/SayoSign"><b>🎀 SayoSign</b></a>　<img src="https://img.shields.io/github/stars/murk-sus/SayoSign?style=flat-square&color=FF6F91" alt="stars" /><br />
-      On-device IPA signer: <b>.p12 or Apple ID</b>, tweak injection with its own hooking engine, OCSP revocation check, offline installs. English, Русский, 中文.<br />
-      <a href="https://github.com/murk-sus/SayoSign/releases/latest"><img src="https://img.shields.io/github/v/release/murk-sus/SayoSign?style=flat-square&color=F0566E&label=download" alt="Download" /></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [IPALens](https://murk-sus.github.io/IPALens/)
+<img src="https://img.shields.io/github/stars/murk-sus/IPALens?style=flat-square&color=b79bff&labelColor=1a0f16&label=stars"/> <img src="https://img.shields.io/badge/web-no_upload-6ee7a8?style=flat-square&labelColor=1a0f16"/>
+
+Drop an **IPA, .deb tweak, .mobileprovision or .p12** into your browser and instantly see:
+decrypted or not · injected tweaks · **is my UDID in this profile** · p12 ↔ profile match ·
+rootless / roothide · ad & tracking SDKs · **TrollStore / jailbreak** entitlements · diff two IPAs.
+
+Nothing is uploaded. `EN · RU · 中文`
+
+<a href="https://murk-sus.github.io/IPALens/"><img src="https://img.shields.io/badge/▶_open-IPALens-ff5c8a?style=for-the-badge&labelColor=1a0f16"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎀 [SayoSign](https://github.com/murk-sus/SayoSign)
+<img src="https://img.shields.io/github/stars/murk-sus/SayoSign?style=flat-square&color=ff5c8a&labelColor=1a0f16&label=stars"/> <img src="https://img.shields.io/github/v/release/murk-sus/SayoSign?style=flat-square&color=6ee7a8&labelColor=1a0f16&label=release"/>
+
+An **on-device IPA signer** with its own from-scratch engine in C — no OpenSSL, no zsign inside.
+Sign with a **.p12 or Apple ID**, inject tweaks with the built-in SayoHook engine,
+check revocation live via **OCSP**, install offline. Plus a **desktop app** for Windows / macOS / Linux.
+
+`EN · RU · 中文`
+
+<a href="https://github.com/murk-sus/SayoSign/releases/latest"><img src="https://img.shields.io/badge/⬇_download-SayoSign-ff5c8a?style=for-the-badge&labelColor=1a0f16"/></a>
+
+</td>
+</tr>
 </table>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🍓 Project hangar
 
-<p align="center"><img src="assets/research-divider.svg" width="100%" alt="Anime console graphic for iOS tools and research" /></p>
-
 <table>
-  <tr><th align="left">PROJECT</th><th align="left">MISSION BRIEFING</th><th align="left">NOTES</th></tr>
-  <tr><td><a href="https://github.com/murk-sus/kamui-escape"><b>KAMUI</b></a><br /><img src="https://img.shields.io/badge/iOS-RESEARCH-FF654F?style=flat-square" alt="iOS research" /></td><td>Open-ended exploration of iOS behavior and system boundaries.</td><td>Research-first, careful and documented.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/natsuk1"><b>natsuk1</b></a><br /><img src="https://img.shields.io/badge/ARCHIVE-FINDINGS-FF9A62?style=flat-square" alt="Research archive" /></td><td>Findings archive and exploratory notes.</td><td>Good for context, less for shipping.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/F1OOB-PoC"><b>F1OOB-PoC</b></a><br /><img src="https://img.shields.io/badge/GPU-HARNESS-9B72CF?style=flat-square" alt="GPU harness" /></td><td>Focused harness and proof-of-concept work.</td><td>Experimental, purpose-built.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/natsuk1-research"><b>natsuk1-research</b></a><br /><img src="https://img.shields.io/badge/RESEARCH-ARCHIVE-9B72CF?style=flat-square" alt="Research archive" /></td><td>Detailed notes and reverse-engineering notes.</td><td>Archive and reference material.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/asuka4scape"><b>asuka4scape</b></a><br /><img src="https://img.shields.io/badge/iOS-TOOLS-FF6F91?style=flat-square" alt="iOS tools" /></td><td>Jailbreak-adjacent tooling and experimentation.</td><td>Tooling with a practical mindset.</td></tr>
+<tr><th align="left">🧬 RESEARCH</th><th align="left">MISSION</th></tr>
+<tr><td><a href="https://github.com/murk-sus/kamui-escape"><b>KAMUI</b></a> <img src="https://img.shields.io/github/stars/murk-sus/kamui-escape?style=flat-square&color=ff654f&labelColor=1a0f16&label="/></td><td>iOS 27.x sandbox escape + MobileGestalt editor. MIT, free for everyone.</td></tr>
+<tr><td><a href="https://github.com/murk-sus/natsuk1"><b>natsuk1</b></a></td><td>iOS 27.2 F1/AGX kernel research archive: IOSurface wrap, AGX sel8, SPTM/TTBAT.</td></tr>
+<tr><td><a href="https://github.com/murk-sus/F1OOB-PoC"><b>F1OOB-PoC</b></a></td><td>IOSurface → AGX/Metal cross-object GPU OOB write proof of concept.</td></tr>
+<tr><td><a href="https://github.com/murk-sus/asuka4scape"><b>asuka4scape</b></a></td><td>Jailbreak-adjacent tooling and experiments.</td></tr>
 </table>
 
-<p align="center"><img src="assets/plugin-divider.svg" width="100%" alt="Pastel sakura illustration for plugin development" /></p>
-
 <table>
-  <tr><th align="left">PROJECT</th><th align="left">INSIDE THE LAB</th></tr>
-  <tr><td><a href="https://github.com/murk-sus/VoidGram-Plugin-SDK"><b>VoidGram Plugin SDK</b></a><br /><img src="https://img.shields.io/badge/SDK-DOCS-9B72CF?style=flat-square" alt="SDK and docs" /></td><td>Documentation, examples, and the platform logic to help others build with confidence.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/VoidGram-plugins"><b>VoidGram Plugins</b></a><br /><img src="https://img.shields.io/badge/PLUGIN-CATALOG-FF6F91?style=flat-square" alt="Plugin catalog" /></td><td>Catalog of practical plugins and extensions.</td></tr>
-  <tr><td><a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><b>VoidGram for iOS</b></a><br /><img src="https://img.shields.io/badge/DEV-VOIDGRAM-2AABEE?style=flat-square" alt="VoidGram developer" /></td><td>Telegram client for iOS. I'm one of its developers: features, plugin system and the SDK.</td></tr>
+<tr><th align="left">🧩 PLUGINS & SDK</th><th align="left">INSIDE THE LAB</th></tr>
+<tr><td><a href="https://github.com/murk-sus/VoidGram-Plugin-SDK"><b>VoidGram Plugin SDK</b></a></td><td>Full API reference, docs, examples and tools for building VoidGram plugins.</td></tr>
+<tr><td><a href="https://github.com/murk-sus/VoidGram-plugins"><b>VoidGram Plugins</b></a></td><td>Catalog of plugins for VoidGram, the iOS Telegram client I develop.</td></tr>
+<tr><td><a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><b>VoidGram for iOS</b></a></td><td>Telegram client for iOS — I'm one of its developers: features, plugin system, SDK.</td></tr>
 </table>
 
-<p align="center"><img src="assets/utility-divider.svg" width="100%" alt="Anime terminal illustration for desktop utilities and side projects" /></p>
-
 <table>
-  <tr><th align="left">PROJECT</th><th align="left">SIDE-QUEST DESCRIPTION</th></tr>
-  <tr><td><a href="https://github.com/murk-sus/AI-helper-windows-11"><b>AI Helper Terminal</b></a><br /><img src="https://img.shields.io/badge/WINDOWS-UTILITY-FF9A8B?style=flat-square" alt="Window utility" /></td><td>Small utility work for Windows automation and productivity loops.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/ideal-barnacle"><b>ideal-barnacle</b></a><br /><img src="https://img.shields.io/badge/EXPERIMENT-LOG-9B72CF?style=flat-square" alt="Experiment" /></td><td>Short-lived experiments and proof-of-concept concepts.</td></tr>
-  <tr><td><a href="https://github.com/murk-sus/cuddly-train"><b>cuddly-train</b></a><br /><img src="https://img.shields.io/badge/ARCHIVE-SIDE_QUEST-FF6F91?style=flat-square" alt="Archived experiment" /></td><td>Archived side quest, preserved for history and learning.</td></tr>
+<tr><th align="left">🎨 DESKTOP & FUN</th><th align="left">SIDE QUESTS</th></tr>
+<tr><td><a href="https://github.com/murk-sus/femboy-rice"><b>femboy-rice</b></a></td><td>KDE Plasma theme switcher — 19 themes from GRUB and Plymouth to SDDM and the terminal.</td></tr>
+<tr><td><a href="https://github.com/murk-sus/AI-helper-windows-11"><b>AI Helper Terminal</b></a></td><td>Small Windows automation utility.</td></tr>
 </table>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎀 Tool palette
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Objective--C-FF6F91?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
-  <img src="https://img.shields.io/badge/Python-8E7CC3?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=242038" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-7FA6D8?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-FF9EBB?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Rust-C8A2C8?style=for-the-badge&logo=rust&logoColor=242038" alt="Rust" />
-  <img src="https://img.shields.io/badge/Markdown-FFB86B?style=for-the-badge&logo=markdown&logoColor=242038" alt="Markdown" />
+<p>
+  <img src="https://img.shields.io/badge/C-7fa6d8?style=for-the-badge&logo=c&logoColor=white&labelColor=1a0f16"/>
+  <img src="https://img.shields.io/badge/Objective--C-ff6f91?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a0f16"/>
+  <img src="https://img.shields.io/badge/Swift-ff8a7a?style=for-the-badge&logo=swift&logoColor=white&labelColor=1a0f16"/>
+  <img src="https://img.shields.io/badge/Python-8e7cc3?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0f16"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffd1dc?style=for-the-badge&logo=javascript&logoColor=1a0f16&labelColor=1a0f16"/>
+  <img src="https://img.shields.io/badge/Rust-c8a2c8?style=for-the-badge&logo=rust&logoColor=1a0f16&labelColor=1a0f16"/>
 </p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📊 Pilot telemetry
 
 <div align="center">
 
-`OBJECTIVE-C`　✦　`PYTHON`　✦　`JAVASCRIPT`　✦　`C++ / C#`　✦　`RUST`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1a0f16&title_color=ff5c8a&icon_color=b79bff&text_color=d9cfe6&ring_color=ff8a7a" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=murk-sus&layout=compact&hide_border=true&bg_color=1a0f16&title_color=ff5c8a&text_color=d9cfe6&langs_count=8" alt="top languages"/>
 
-*The stack changes with the mission. Curiosity is the only required dependency.*
-
-</div>
-
-## 📊 GitHub corner　`SYNCING PILOT DATA…`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=murk-sus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=fff7fb&title_color=dc527a&icon_color=9b72cf&text_color=51465f&locale=en" alt="GitHub stats" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=murk-sus&layout=compact&hide_border=true&bg_color=fff7fb&title_color=dc527a&text_color=51465f&cache_seconds=86" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=murk-sus&theme=rose&hide_border=true&background=FFF7FB&ring=FF6F91&fire=FF8A65&currStreakLabel=9B72CF" alt="GitHub contribution streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murk-sus&theme=rose" alt="GitHub profile activity summary" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=murk-sus&hide_border=true&background=1a0f16&stroke=ff5c8a&ring=ff5c8a&fire=ff8a7a&currStreakLabel=b79bff&sideLabels=d9cfe6&dates=85708f&currStreakNum=ff8aa6&sideNums=ff8aa6" alt="streak"/>
 
 </div>
 
-<details>
-<summary><b>🛠️ If a stats card is blank</b></summary>
-<br />
-
-The cards above are image embeds, not links, so clicking them will not send you to the profile page. Open an image URL directly to test the card service. If the image URL itself returns an error, it is usually a temporary external service issue.
-
-</details>
-
-## 🌐 Find me
-
-<p align="center">
-  <a href="https://t.me/asuka4scape"><img src="https://img.shields.io/badge/Telegram-@asuka4scape-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @asuka4scape" /></a>
-  <a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/GitHub-@murk--sus-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @murk-sus" /></a>
-  <a href="https://github.com/dsn2fvhmn4-lgtm/AyuGramm-IOS"><img src="https://img.shields.io/badge/Dev-VoidGram_iOS-B79BFF?style=for-the-badge&logo=github&logoColor=white" alt="VoidGram iOS" /></a>
-  <a href="https://t.me/jailbreak_IOS_and_tweaks"><img src="https://img.shields.io/badge/Channel-@jailbreak__IOS__and__tweaks-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel" /></a>
-  <a href="https://murk-sus.github.io/"><img src="https://img.shields.io/badge/Site-murk--sus.github.io-FF9A8B?style=for-the-badge" alt="Website" /></a>
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🐍 Contribution garden
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/murk-sus/murk-sus/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,50:FF9A8B,100:FF5C8A&height=130&section=footer&animation=twinkling" alt="Animated sakura-colored footer" />
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=FF6F91&center=true&vCenter=true&width=650&lines=Thanks+for+visiting%2C+Murk's+little+corner+of+the+internet." alt="Footer text" />
+<a href="https://murk-sus.github.io/donate/"><img src="https://img.shields.io/badge/💖_if_a_tool_saved_you_time-support_murk-ff5c8a?style=for-the-badge&labelColor=1a0f16"/></a>
 
-<p><a href="https://github.com/murk-sus"><img src="https://img.shields.io/badge/See_you_around-@murk--sus-FF6F91?style=for-the-badge&logo=github&logoColor=white" alt="Visit Murk on GitHub" /></a></p>
+<sub>USDT · TON · BTC · ETH · SOL — <a href="https://murk-sus.github.io/donate/">murk-sus.github.io/donate</a></sub>
 
 </div>
