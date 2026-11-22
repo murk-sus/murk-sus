@@ -62,11 +62,33 @@ Nothing is uploaded. `EN · RU · 中文`
 
 An **on-device IPA signer** with its own from-scratch engine in C — no OpenSSL, no zsign inside.
 Sign with a **.p12 or Apple ID**, inject tweaks with the built-in SayoHook engine,
-check revocation live via **OCSP**, install offline. Plus a **desktop app** for Windows / macOS / Linux.
+check revocation live via **OCSP**, install offline. **Apple ID sign-in works again in 1.1** (anisette v3).
 
 `EN · RU · 中文`
 
 <a href="https://github.com/murk-sus/SayoSign/releases/latest"><img src="https://img.shields.io/badge/⬇_download-SayoSign-ff5c8a?style=for-the-badge&labelColor=1a0f16"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 [SayoSign Desktop](https://github.com/murk-sus/SayoSign-Desktop)
+<img src="https://img.shields.io/github/stars/murk-sus/SayoSign-Desktop?style=flat-square&color=ff5c8a&labelColor=1a0f16&label=stars"/> <img src="https://img.shields.io/badge/Linux·Win·Mac-native_app-6ee7a8?style=flat-square&labelColor=1a0f16"/>
+
+A Sideloadly-style app: sign & install over USB with a **.p12 or Apple ID**, inject tweaks, and run an **anisette server on your PC** for your iPhone — scan the QR code and Apple ID sign-in just works.
+
+<a href="https://github.com/murk-sus/SayoSign-Desktop/releases/latest"><img src="https://img.shields.io/badge/⬇_download-Desktop-ff5c8a?style=for-the-badge&labelColor=1a0f16"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 [yuri4iPhone](https://github.com/murk-sus/yuri4iPhone)
+<img src="https://img.shields.io/github/stars/murk-sus/yuri4iPhone?style=flat-square&color=9b72cf&labelColor=1a0f16&label=stars"/> <img src="https://img.shields.io/badge/3uTools-alternative-b79bff?style=flat-square&labelColor=1a0f16"/>
+
+An open iPhone toolbox for the desktop: device dashboard, storage breakdown, apps, files, live logs, and a **Customize** panel that unlocks only the tools that work on your phone — stock, TrollStore or jailbroken.
+
+<a href="https://github.com/murk-sus/yuri4iPhone/releases/latest"><img src="https://img.shields.io/badge/⬇_download-yuri4iPhone-9b72cf?style=for-the-badge&labelColor=1a0f16"/></a>
 
 </td>
 </tr>
